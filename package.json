@@ -1,0 +1,8 @@
+{
+  "name": "claude-grounds-demo",
+  "version": "1.0.0",
+  "description": "Projeto mínimo para demonstrar o claude-grounds: um bug real, um teste que passa sem pegá-lo",
+  "type": "module",
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
